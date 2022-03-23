@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaikat010
 - 👀 I’m interested in entrepreneurship and innovation
-- 🌱 I’m currently learning to do data analysis
+- 🌱 I’m currently learning to do data science and blockchain
 - 💞️ I’m looking to collaborate on innovative ideas on blockchain
 - 📫 Reach out to me usng this email: shaikat.majumder@g.bracu.ac.bd
 
