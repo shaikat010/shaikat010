@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning to do data science and blockchain
 - 💞️ I’m looking to collaborate on innovative ideas on blockchain
 - 📫 Reach out to me using this email: shaikat.majumder@g.bracu.ac.bd
+- My Academia Profile Link: https://bracu.academia.edu/SMAJUMDER
 
 <!---
 shaikat010/shaikat010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
