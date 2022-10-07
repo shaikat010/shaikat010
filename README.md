@@ -11,5 +11,5 @@ shaikat010/shaikat010 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![image](https://user-images.githubusercontent.com/68814937/194483864-df6236bf-67a7-428f-936d-1dccf49f3dfe.png)
+
 
