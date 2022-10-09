@@ -15,7 +15,8 @@ You can click the Preview link to take a look at your changes.
 ![image](https://user-images.githubusercontent.com/68814937/194781848-bf685d16-e688-46d1-b3a6-1d3334f6cc39.png)
 
 
-![image](https://user-images.githubusercontent.com/68814937/194782070-c952c3cd-8aa7-4614-9990-689640d28fc6.png)
+
+![image](https://user-images.githubusercontent.com/68814937/194782099-06fb3056-7481-4ac1-9ac2-ea02e5c7db8e.png)
 
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <br>
