@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @shaikat010
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 - 👀 I’m interested in entrepreneurship and innovation
 - 🌱 I’m currently learning to do data science and blockchain
 - 💞️ I’m looking to collaborate on innovative ideas on blockchain
@@ -20,6 +23,3 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
