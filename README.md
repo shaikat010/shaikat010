@@ -5,7 +5,7 @@
 
 <h8>
 - 👀 I’m interested in entrepreneurship and innovation
-- 🌱 I’m currently learning to do data science and blockchain
+- 🌱 Interested in data science and blockchain
 - 💞️ I’m looking to collaborate on innovative ideas on blockchain
 - 📫 Reach out to me using this email: outreach.shaikatmajumder@gmail.com
 - My Academia Profile Link: https://bracu.academia.edu/SMAJUMDER
