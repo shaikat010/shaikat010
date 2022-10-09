@@ -14,6 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 ![image](https://user-images.githubusercontent.com/68814937/194781848-bf685d16-e688-46d1-b3a6-1d3334f6cc39.png)
 
+
+![image](https://user-images.githubusercontent.com/68814937/194782070-c952c3cd-8aa7-4614-9990-689640d28fc6.png)
+
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <br>
 <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
