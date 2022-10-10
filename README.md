@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 ![194782486-7c1e8211-3301-4683-87ea-84fb06584002-removebg-preview](https://user-images.githubusercontent.com/68814937/194825739-41718e71-daea-4828-891e-9a27d594d098.png)
 
 
-![image](https://user-images.githubusercontent.com/68814937/194782486-7c1e8211-3301-4683-87ea-84fb06584002.png)
+
 
 ![image](https://user-images.githubusercontent.com/68814937/194782099-06fb3056-7481-4ac1-9ac2-ea02e5c7db8e.png)
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
