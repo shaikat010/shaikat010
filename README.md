@@ -22,8 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 > "Nobody knows Everything about Anything"
 
-  
-![194782486-7c1e8211-3301-4683-87ea-84fb06584002-removebg-preview](https://user-images.githubusercontent.com/68814937/194825739-41718e71-daea-4828-891e-9a27d594d098.png)
+![image](https://user-images.githubusercontent.com/68814937/195762659-b2cecda1-b4a5-42aa-9b20-ef8e95f66e5c.png)
 
 
 
