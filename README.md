@@ -22,6 +22,9 @@ You can click the Preview link to take a look at your changes.
 
 > "Nobody knows Everything about Anything"
 
+![stack-removebg-preview](https://user-images.githubusercontent.com/68814937/195762957-176047c1-1fcd-4660-8342-b26b9a3bdae6.png)
+
+
 ![image](https://user-images.githubusercontent.com/68814937/195762659-b2cecda1-b4a5-42aa-9b20-ef8e95f66e5c.png)
 
 
