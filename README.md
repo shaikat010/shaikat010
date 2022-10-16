@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on innovative ideas on blockchain
 - 📫 Reach out to me using this email: outreach.shaikatmajumder@gmail.com
 - My Academia Profile Link: https://bracu.academia.edu/SMAJUMDER
-- Hashnode Account: shaikat.hashnode.dev
+- Hashnode Account: [shaikat.hashnode.dev](https://shaikat.hashnode.dev/)
 - https://share.cryptozombies.io/en/lesson/1/share/Shaikat_Majumder?id=Y3p8NTQ2NTg5
 
 
