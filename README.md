@@ -4,7 +4,7 @@
 </h1>
 
 
-- 👀 I’m interested in entrepreneurship and innovation
+- 👀 I’m interested in innovation and product development
 - 🌱 Interested in data science and blockchain
 - 💞️ I’m looking to collaborate on innovative ideas on blockchain
 - 📫 Reach out to me using this email: outreach.shaikatmajumder@gmail.com
