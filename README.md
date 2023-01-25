@@ -5,7 +5,7 @@
 
 ![Github_Cover](https://user-images.githubusercontent.com/68814937/214672199-b7428568-0c48-487f-a78a-8d2bbe22f44b.png)
 
-<h1 align="center"> ![ETH](https://user-images.githubusercontent.com/68814937/214680226-800b1b33-aa55-45c7-87e1-c0399a5be6fb.gif)</h1>
+<img align = "center" ![ETH](https://user-images.githubusercontent.com/68814937/214680226-800b1b33-aa55-45c7-87e1-c0399a5be6fb.gif) />
 
 
 
