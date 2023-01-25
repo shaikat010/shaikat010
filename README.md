@@ -3,6 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+![Github_Cover](https://user-images.githubusercontent.com/68814937/214672199-b7428568-0c48-487f-a78a-8d2bbe22f44b.png)
+
 
 - 👀 I’m interested in innovation and product development
 - 🌱 Interested in data science and blockchain
