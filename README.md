@@ -49,6 +49,4 @@ Profile Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/{Shaikat010}/count.svg)
 
-<p align="center">
- <img src=["https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fblockchain&psig=AOvVaw1OBPZMUhRjyRUZxon8kSto&ust=1674763115518000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIiz7vfA4_wCFQAAAAAdAAAAABAV" width="100" height="100" />
-</p>
+
