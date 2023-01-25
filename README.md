@@ -49,4 +49,4 @@ Profile Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/{Shaikat010}/count.svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikat010&show_icons=true&theme=theme_name)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikat010&show_icons=true&theme=vision-friendly-dark)
