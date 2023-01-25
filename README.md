@@ -8,7 +8,7 @@
  <p align="center"> ![ETH](https://user-images.githubusercontent.com/68814937/214680226-800b1b33-aa55-45c7-87e1-c0399a5be6fb.gif) </p>
 
 <p align="center">
-  <img src="![ETH](https://user-images.githubusercontent.com/68814937/214680226-800b1b33-aa55-45c7-87e1-c0399a5be6fb.gif) " alt="animated" />
+  <img src="https://user-images.githubusercontent.com/68814937/214680226-800b1b33-aa55-45c7-87e1-c0399a5be6fb.gif" alt="animated" />
 </p>
 
 - 👀 I’m interested in innovation and product development
