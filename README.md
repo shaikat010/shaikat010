@@ -12,9 +12,7 @@
 </p>
 --->
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/68814937/214681977-6317002e-d3f1-459e-9a87-68b99cec2ff3.gif" alt="animated" />
-</p>
+
 
 - 👀 I’m interested in innovation and product development
 - 🌱 Interested in data science and blockchain
