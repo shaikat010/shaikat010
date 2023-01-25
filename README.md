@@ -6,9 +6,14 @@
 ![Github_Cover](https://user-images.githubusercontent.com/68814937/214672199-b7428568-0c48-487f-a78a-8d2bbe22f44b.png)
 
 
-
+<!---
 <p align="center">
   <img src="https://user-images.githubusercontent.com/68814937/214680226-800b1b33-aa55-45c7-87e1-c0399a5be6fb.gif" alt="animated" />
+</p>
+--->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/68814937/214681977-6317002e-d3f1-459e-9a87-68b99cec2ff3.gif" alt="animated" />
 </p>
 
 - 👀 I’m interested in innovation and product development
