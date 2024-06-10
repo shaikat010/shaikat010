@@ -23,6 +23,7 @@
 - Hashnode Account: [shaikat.hashnode.dev](https://shaikat.hashnode.dev/)
 - Hackernoon Account : https://hackernoon.com/u/shaikatm
 - https://share.cryptozombies.io/en/lesson/1/share/Shaikat_Majumder?id=Y3p8NTQ2NTg5
+- Also currently working on core blockchain protocols and turning your pet into an NFT
 
 
 
