@@ -13,22 +13,6 @@
 --->
 
 
-
-- 👀 I’m interested in innovation and product development
-- 🌱 Interested in data science and blockchain
-- 💞️ I’m looking to collaborate on innovative ideas on blockchain
-- 📫 Reach out to me using this email: outreach.shaikatmajumder@gmail.com
-- My Academia Profile Link: https://bracu.academia.edu/SMAJUMDER
-- My Medium Profile: https://medium.com/@outreach.shaikatmajumder
-- Hashnode Account: [shaikat.hashnode.dev](https://shaikat.hashnode.dev/)
-- Hackernoon Account : https://hackernoon.com/u/shaikatm
-- https://share.cryptozombies.io/en/lesson/1/share/Shaikat_Majumder?id=Y3p8NTQ2NTg5
-- Also currently working on core blockchain protocols and turning your pet into an NFT
-
-
-
-
-
 <!---
 shaikat010/shaikat010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
